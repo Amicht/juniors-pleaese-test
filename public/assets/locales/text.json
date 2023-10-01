@@ -1,0 +1,33 @@
+{
+  "home":{
+      "title": [
+          {"text": "We Make ", "isHighligted": false},
+          {"text": "Juniors Capable For ", "isHighligted": true},
+          {"text": "Projects", "isHighligted": false}
+      ],
+      "subtitle": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "infoTexts": [
+          "over 1000 juniors",
+          "more than 5000 projects",
+          "skilled and profetional experts"
+      ],
+      "btnText": "Become a Junior",
+      "btnAuthText": "Find a Junior"
+  },
+  "signUp":{
+      "title":"Sign Up",
+      "linkTo": "/auth/login",
+      "subtitle":["Or ", "Log In", "if you already have an account"],
+      "alternateTitle":"Or Continue With: "
+  },
+  "login":{
+      "title":"Log In",
+      "linkTo": "/auth/sign-up",
+      "subtitle":["Or ", "Sign Up", "if you don't have an account"],
+      "alternateTitle":"Or Continue With: "
+  },
+  "juniorsPage":{
+      "title": "Find Juniors",
+      "subtitle": "Find the world's best and talented Juniors on Juniors Please"
+  }
+}
