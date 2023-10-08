@@ -1,15 +1,15 @@
 {
   "home":{
       "title": [
-          {"text": "We Make ", "isHighligted": false},
-          {"text": "Juniors Capable For ", "isHighligted": true},
-          {"text": "Projects", "isHighligted": false}
+          {"text": "Find talents ", "isHighligted": false},
+          {"text": "Available for hire ", "isHighligted": true},
+          {"text": " Today!", "isHighligted": false}
       ],
-      "subtitle": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "subtitle": "Hire the best junior developers, Today! expose your talent to the world, free of charge!",
       "infoTexts": [
           "over 1000 juniors",
           "more than 5000 projects",
-          "skilled and profetional experts"
+          "skilled and professional experts"
       ],
       "btnText": "Become a Junior",
       "btnAuthText": "Find a Junior"
